@@ -1,10 +1,19 @@
+body {
+    margin: 0;
+}
+
 * {
     font-style: italic;
 }
 
+h1 {
+    margin: 40px 0px 0px 0px;
+
+}
+
 li {
     block-size: auto;
-    font-size: 4cqi;
+    font-size: 2cqi;
 }
 
 button {
@@ -23,4 +32,39 @@ button:hover {
 footer{
     color: grey;
     text-align: right;
+}
+
+img {
+    height: 200px;
+    width: 350px;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    margin: 0 40px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+    background-color: antiquewhite;
+    height: 40px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover { 
+    color: red;
 }
