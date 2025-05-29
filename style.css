@@ -68,6 +68,7 @@ a:hover {
     color: red;
 }
 
-a.nav {
+a.nav:link {
     color: #FAFFCA;
+
 }
