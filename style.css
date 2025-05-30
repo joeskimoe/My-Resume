@@ -68,11 +68,11 @@ a:hover {
     color: red;
 }
 
-a.nav:link {
+.nav:link {
     color: #FAFFCA;
 
 }
 
-a.nav:visited {
+.nav:visited {
   color: #FAFFCA;
 }
