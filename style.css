@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #FAFFCA;
-    text-align: center;
+    text-align: left;
 }
 
 h1 {
@@ -10,6 +10,7 @@ h1 {
 }
 
 li {
+    list-style: none;
     block-size: auto;
     font-size: 2cqi;
 }
@@ -76,4 +77,5 @@ div a:link {
 
 div a:visited {
   color: #FAFFCA;
+
 }
